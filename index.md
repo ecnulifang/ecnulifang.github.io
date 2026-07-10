@@ -6,10 +6,11 @@ title: Fang Li (黎芳)
 <div style="overflow: hidden; margin-bottom: 20px;">
   <img src="assets/images/lifang1.jpg" width="100" height="100" alt="Fang Li" style="float: left; margin: 5px 20px 10px 0; border-radius: 5px;" />
   <p>
-    I am a Professor in the <a href="http://math.ecnu.edu.cn">School of Mathematical Sciences</a> at
-    <a href="https://www.ecnu.edu.cn">East China Normal University (ECNU)</a>.
-    My research interests include <strong>image processing</strong>, 
-    <strong>numerical optimization</strong>, and <strong>deep learning</strong>.
+  Professor at <a href="http://math.ecnu.edu.cn">the School of Mathematical Sciences</a>,
+  <a href="https://www.ecnu.edu.cn">East China Normal University (ECNU)</a>.
+    
+  Research interests: Image processing, Variational methods, Deep learning, Numerical optimization.
+ 
   </p>
 </div>
 
