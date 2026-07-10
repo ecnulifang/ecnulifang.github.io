@@ -5,11 +5,7 @@
 
 title: Fang Li (黎芳)
 email: fli@math.ecnu.edu.cn
-description: >-
-  Professor at School of Mathematical Sciences,
-  East China Normal University (ECNU).
-  Research interests: image processing, machine learning,
-  computer vision, deep learning.
+description: ""
 baseurl: ""   # Set to "/repo-name" if this is a project page
 url: ""       # Will be https://<username>.github.io
 
