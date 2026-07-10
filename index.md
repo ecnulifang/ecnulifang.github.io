@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Fang Li (黎芳) | ECNU
+title: Fang Li (黎芳) 
 ---
 
 <div style="overflow: hidden; margin-bottom: 20px;">
@@ -25,5 +25,5 @@ title: Fang Li (黎芳) | ECNU
 > School of Mathematical Sciences 
 > East China Normal University 
 > 500 Dongchuan Rd., Shanghai, 200241 
-> China<small>
+> China
 
